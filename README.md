@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alf Fonti</h1>
-<h3 align="center">Front End Developer</h3>
+<h3 align="center">a Front End Developer</h3>
 
 - 👨‍💻 I’m currently working on [**Studiosmate**](https://studiosmate.com/)
 
@@ -7,13 +7,7 @@
 
 - 📧 How to reach me **alffonti@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/alffonti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayanori-toyoda" height="30" width="40" /></a>
-<a href="https://instagram.com/alffonti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayanori.toyoda" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
+## Skills
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="ayanorii" />
@@ -21,10 +15,39 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="ayanorii" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ayanorii" />
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="ayanorii" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alffonti&theme=vue" />
+## Tools I use...
 
-<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alffonti" /></span>
+<!-- VS Code, Git, GitHub, NPM -->
 
-<span><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alffonti&" alt="ayanorii" /></span>
+<p align='left'>
+<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+ <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+</p>
+
+## Contact me
+
+<p>
+  <a href="https://github.com/alffonti">
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/alffonti">
+    <img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />    
+  </a>
+  <a href="https://www.facebook.com/alffontii/">
+    <img src="https://img.shields.io/badge/facebook-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /> 
+  <a href="https://twitter.com/alffonti">
+    <img src="https://img.shields.io/badge/linkedin-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white" />    
+  </a>
+</p>
+
+## Stats
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alffonti" />
+<img src="https://github-readme-stats.vercel.app/api?username=alffonti" /> </p>
